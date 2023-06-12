@@ -1,0 +1,11 @@
+let
+    Fonte = (Parâmetro1 as binary) => let
+    Fonte = Csv.Document(Parâmetro1,[Delimiter=",", Columns=4, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+    #"Tipo Alterado" = Table.TransformColumnTypes(Fonte,{{"Column1", type text}, {"Column2", type text}, {"Column3", type text}, {"Column4", type text}}),
+    #"Linhas Principais Removidas" = Table.Skip(#"Tipo Alterado",4),
+    #"Cabeçalhos Promovidos" = Table.PromoteHeaders(#"Linhas Principais Removidas", [PromoteAllScalars=true]),
+    #"Tipo Alterado1" = Table.TransformColumnTypes(#"Cabeçalhos Promovidos",{{"Date", type date}, {"Country", type text}, {"Units", Int64.Type}, {"Revenue", Int64.Type}})
+in
+    #"Tipo Alterado1"
+in
+    Fonte
