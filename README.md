@@ -1,4 +1,4 @@
-<img src="https://v5.airtableusercontent.com/v3/u/29/29/1715731200000/B_WUEtDuNi5MGggRXqC92A/hoNetrxNR8i59cW2M63pJ2bj5PA9Q6kYSfYIP1udx9CmlhPlxeN8PLzPhUPre9zPty7vfPEgZ7dHNPf26xKRFMvXbJeGo9Dac6Kb_LBTRUAiQB5W2nu0gqLtEVS88qejdch_b6mMtWByRFdq5-Gdzf0dDTOeuHOYlS4vDhrFC5nov-ERPKFQURrlU_ByPYFN/My2bestxP-w9UJOCQQ0aMz6bBZFlpH-JErMzTlhzsgI">
+<img src="https://v5.airtableusercontent.com/v3/u/29/29/1715731200000/JvR63nY4uBB-xX5WwIGhJA/fnC-JmDlE8vaz6XwP5Z3BlK7JCBriG9KDdIHf6MiTFbrgmmAg9Sbu7WStlLyyk5AiyEfMC83ai3d3Zno6-wZ_frcYRcUk_ISSuDVBZjtaDWiYOmIF3Y_YAcPma20B0poDnpnb8nD8TgI9ScNNIqVNA/VcTOLLtkZHS6dGX95X7Vj5tXRNFyb9ICSoKEdZdm3DE">
               
 Power BI
 
@@ -9,4 +9,4 @@ Power BI Desktop — Relatórios Interativos - Microsoft
 <img src="https://v5.airtableusercontent.com/v3/u/29/29/1715731200000/t9eS40lujJYV0BkwWOoz1w/1SPbeXO0YwdGv30817nzU_0TQmZg5w5X6BLu8HxIoC8KWFrKAf1Gkld_f4Rm3OymBVTDouSf3ccfvvgcn9M27zFJ0Hul5i_3lkPA7vGVBZUgphOzNzXvmrJNV1lTK1rELt2ZYRAoQflpfM-NvTZegg/HN_lxCuins6zl8M3b_uUU2ceR_mZigRBiWLbuNoUzAc">
 
 And
-<img src="https://v5.airtableusercontent.com/v3/u/29/29/1715731200000/5SACuDm6M6svhHLLG8aRmQ/2jJUPgxFygbrUXjJw_vJlkMpxumdL5b4b1lDKszVpxZ6_UBTnFo3sKvmw-vfyfI9VVVqER_LJxkWfD5HN74vJPgo6NOJUFZ4lj7VhdVwA4Cse4Yc3p-MlSCqeAsNw9BFfLug-f9cnKvC_JjgoBbUrA/ogjVq5PLyVbXETK1-KV5vLJ8dxcQz56kslDRaEz-ir0">
+<img src="https://v5.airtableusercontent.com/v3/u/29/29/1715731200000/6rpyxEbxwYnoqFmeuVSjBQ/vCH1rte6sfoEm5c9-NTUUghf8S_kjHlej4sqsSbsZPvqqohXV97G6SonCIJsgPvdsy0Zu-ivX6DMN30vHC1tVsemPKAmB6AE0ksCEgav49oydt3gXjH_JpPgLwNjzkMoUOWm0HJVSxv9ELkAln20kQ/sCC5C5pfDMsba02xxBMS8bnQy_6DVMwO8I06xYk4iLU">
