@@ -4,3 +4,6 @@ Power BI
 
 <img src="https://v5.airtableusercontent.com/v3/u/29/29/1715731200000/xp6u-DYoPwG9nOOB0HsUXQ/wkMLKBthwfI4d3GfXQMUJ4h52Q-2le_UPvlObvgM6GsGUWzM1xWXmz-HaCZecwFeRXKeaG7Q2KuLyL2HlImUvgL_Qdaseh6r3aRog7utgS9FM8FRoeoqtYnwtCXtA2Km8mrvTztWKpJXXDI0npVT3g/Fq6xh4E-I-AbOHMs3odiJ9GuKpDeYT118wIhLwtOVRU">
 
+Power BI Desktop — Relatórios Interativos - Microsoft
+
+<img src="https://v5.airtableusercontent.com/v3/u/29/29/1715731200000/d1QOBNybEblKhBVKL4p8Rg/Ue5UcHo_LTsvnCZqqvG-RWrN-iZ09AHZbhec5CAmiW_wwTs9Smp1PxfvezhSaNLC1KfyUYiW5_0n6lDxLyUc27CEAVMxGICsD4v32Q6oMGZLaJyfeu6Z1qa5gR2bFQpLQMnJXM4SSS6oMvTdoJ6_fg/E2UdqMw261p3YsxJiA7GLBZDEqmOoZLUuTuPFoZeKyQ">
