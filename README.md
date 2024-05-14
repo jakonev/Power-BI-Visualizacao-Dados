@@ -6,4 +6,4 @@ Power BI
 
 Power BI Desktop — Relatórios Interativos - Microsoft
 
-<img src="https://v5.airtableusercontent.com/v3/u/29/29/1715731200000/d1QOBNybEblKhBVKL4p8Rg/Ue5UcHo_LTsvnCZqqvG-RWrN-iZ09AHZbhec5CAmiW_wwTs9Smp1PxfvezhSaNLC1KfyUYiW5_0n6lDxLyUc27CEAVMxGICsD4v32Q6oMGZLaJyfeu6Z1qa5gR2bFQpLQMnJXM4SSS6oMvTdoJ6_fg/E2UdqMw261p3YsxJiA7GLBZDEqmOoZLUuTuPFoZeKyQ">
+<img src="https://v5.airtableusercontent.com/v3/u/29/29/1715731200000/6rpyxEbxwYnoqFmeuVSjBQ/vCH1rte6sfoEm5c9-NTUUghf8S_kjHlej4sqsSbsZPvqqohXV97G6SonCIJsgPvdsy0Zu-ivX6DMN30vHC1tVsemPKAmB6AE0ksCEgav49oydt3gXjH_JpPgLwNjzkMoUOWm0HJVSxv9ELkAln20kQ/sCC5C5pfDMsba02xxBMS8bnQy_6DVMwO8I06xYk4iLU">
